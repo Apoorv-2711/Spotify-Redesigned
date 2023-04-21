@@ -5,6 +5,6 @@ const nextConfig = {
 
 module.exports = {
   images: {
-    domains: ['media.discordapp.net'],
+    domains: ['media.discordapp.net','getheavy.com'],
   },
 }
