@@ -37,7 +37,6 @@ function Signin({ providers }) {
                         className='text-white py-4 px-6 rounded-full bg-[#1db954] transition duration-300 ease-out border border-transparent uppercase font-bold text-xs md:text-base tracking-wider hover:scale-105 hover:bg-[#0db146]'
                         onClick={() => signIn(provider.id)}
                     >
-                        
                         Sign in with {provider.name}
                     </button>
                 </div>
